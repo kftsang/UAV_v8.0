@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>checkgreen.png</file>
+        <file>checkgrey.png</file>
+        <file>checkred.png</file>
+        <file>visa.png</file>
+        <file>discover.png</file>
+        <file>amx.png</file>
+        <file>map.png</file>
+        <file>OpeningPage.qml</file>
+        <file>AboutPage.qml</file>
+        <file>PendingOrderPage.qml</file>
+        <file>BatteryStatusPage.qml</file>
+        <file>VendorTrackPage.qml</file>
+        <file>MalfunctioningPage.qml</file>
+        <file>DroneLocationPage.qml</file>
+        <file>MenuPage.qml</file>
+        <file>AddressPage.qml</file>
+        <file>PaymentPage.qml</file>
+        <file>ConfirmationPage.qml</file>
+        <file>CustomerTrackPage.qml</file>
+        <file>DroneApproaching.qml</file>
+        <file>ReceivedOrderCheck.qml</file>
+        <file>MalfunctioningCustNotification.qml</file>
+        <file>images/safety.png</file>
+        <file>images/application-exit.png</file>
+        <file>images/clear.png</file>
+        <file>images/connect.png</file>
+        <file>images/disconnect.png</file>
+        <file>images/settings.png</file>
+        <file>images/logo.png</file>
+        <file>logo.png</file>
+        <file>ManualControlPage.qml</file>
+    </qresource>
+</RCC>
