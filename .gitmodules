@@ -1,0 +1,6 @@
+[submodule "images"]
+	path = images
+	url = http://github.com/uav_test/images
+[submodule "mavlink"]
+	path = mavlink
+	url = http://github.com/uav_test/mavlink
